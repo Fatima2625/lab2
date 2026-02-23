@@ -1,1 +1,2 @@
+Lab 2: ML Problem Identification, Dataset Selection & Methodology Diagram
 The dataset contains customer shopping records with demographic and purchasing features such as age, gender, season, previous sales, actual price, and discount applied. The target variable is the product category, which is a categorical value. Therefore, the machine learning task is a classification problem. The model is expected to learn customer shopping behavior in order to predict the product category.
